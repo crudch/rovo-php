@@ -5,6 +5,7 @@ $user_avatar = '/img/user.jpg';
 $user_name = 'RoVo';
 
 ?>
+
 <!DOCTYPE html>
 <html lang="ru">
 <head>
